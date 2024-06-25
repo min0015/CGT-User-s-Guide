@@ -8,7 +8,7 @@
 -- [Image to Image](docs/page1.md)
 -- [ADetailer](docs/.md)
 -- [Restore Face](docs/7_restoreface.md)
--- [Upscale](docs/.md)
+-- [Upscale](docs/8_upscale.md)
 -- [Color - Auto Contrast](docs/.md)
 -- [Color - Brightness](docs/.md)
 -- [Color - Color Balance](docs/.md)
