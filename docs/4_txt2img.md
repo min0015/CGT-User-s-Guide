@@ -3,7 +3,7 @@
 Text to Image(txt2Img, T2I)는 텍스트(텍스트 프롬프트)와 다양한 파라미터, 그리고 ControlNet을 이용해 이미지를 생성하는 Command입니다.
 
 <p><br></p>
-<img width="600" src="/img/UI_Prompt.png?version=2&amp;modificationDate=1718980002331&amp;api=v2" >
+![Prompt and Negative Prompt](https://github.com/min0015/CGT-User-s-Guide/blob/main/img/UI_Prompt.png?raw=true)
 
 -   **Prompt**
     -   프롬프트를 입력합니다. <p> 
