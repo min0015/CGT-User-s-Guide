@@ -3,7 +3,7 @@
 Restore Face는 Face Restoration 모델을 이용해 앞 단계 결과 이미지의 얼굴 부위 품질을 향상시키는 Command입니다.
 
 <p><br></p>
-<img width="600" src="/img/UI_RestoreFace.png?version=1&amp;modificationDate=1718981189516&amp;api=v2">
+https://github.com/min0015/CGT-User-s-Guide/blob/main/img/Overview.png?raw=true
 
 -   **Name**
     -   사용할 모델을 선택합니다.
